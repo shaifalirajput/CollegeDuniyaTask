@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "rank": 1,
+    "name": "IIT Madras",
+    "location": "Chennai, Tamil Nadu",
+    "course": "B.Tech Computer Science Engineering",
+    "fees": 209550,
+    "placement": 2148000,
+    "userReview": 8.6,
+    "ranking": 3,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "rank": 2,
+    "name": "IIT Delhi",
+    "location": "New Delhi, Delhi NCR",
+    "course": "B.Tech Mathematics and Computing",
+    "fees": 254650,
+    "placement": 2528000,
+    "userReview": 8.7,
+    "ranking": 1,
+    "featured": false
+  },
+  {
+    "id": 3,
+    "rank": 3,
+    "name": "Parul University, Vadodara",
+    "location": "Vadodara, Gujarat",
+    "course": "B.Tech",
+    "fees": 149000,
+    "placement": 400000,
+    "userReview": 8.1,
+    "ranking": 99,
+    "featured": true
+  },
+  {
+    "id": 4,
+    "rank": 4,
+    "name": "IIT Bombay",
+    "location": "Mumbai, Maharashtra",
+    "course": "B.Tech Computer Science Engineering",
+    "fees": 229300,
+    "placement": 2128000,
+    "userReview": 8.8,
+    "ranking": 2,
+    "featured": false
+  },
+  {
+    "id": 5,
+    "rank": 5,
+    "name": "IIT Kharagpur",
+    "location": "Kharagpur, West Bengal",
+    "course": "B.Tech Mechanical Engineering",
+    "fees": 220450,
+    "placement": 2050000,
+    "userReview": 8.5,
+    "ranking": 4,
+    "featured": true
+  },
+  {
+    "id": 6,
+    "rank": 6,
+    "name": "IIT Kanpur",
+    "location": "Kanpur, Uttar Pradesh",
+    "course": "B.Tech Electrical Engineering",
+    "fees": 225500,
+    "placement": 2100000,
+    "userReview": 8.4,
+    "ranking": 5,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "rank": 7,
+    "name": "IIT Roorkee",
+    "location": "Roorkee, Uttarakhand",
+    "course": "B.Tech Civil Engineering",
+    "fees": 218500,
+    "placement": 2000000,
+    "userReview": 8.3,
+    "ranking": 6,
+    "featured": true
+  },
+  {
+    "id": 8,
+    "rank": 8,
+    "name": "NIT Trichy",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "course": "B.Tech Computer Science Engineering",
+    "fees": 150000,
+    "placement": 1800000,
+    "userReview": 8.2,
+    "ranking": 7,
+    "featured": false
+  },
+  {
+    "id": 9,
+    "rank": 9,
+    "name": "IIT Guwahati",
+    "location": "Guwahati, Assam",
+    "course": "B.Tech Chemical Engineering",
+    "fees": 210000,
+    "placement": 1950000,
+    "userReview": 8.1,
+    "ranking": 8,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "rank": 10,
+    "name": "BITS Pilani",
+    "location": "Pilani, Rajasthan",
+    "course": "B.Tech Computer Science Engineering",
+    "fees": 300000,
+    "placement": 2200000,
+    "userReview": 8.9,
+    "ranking": 9,
+    "featured": true
+  }
+]
